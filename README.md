@@ -79,22 +79,6 @@ The project is being developed incrementally, with additional order-flow and pay
 
 ---
 
-## Upcoming Projects
-
-### 🐒 WHISKINGMONKEY — Digital Solutions & Growth Studio
-
-An upcoming digital solutions concept bringing together web and app development, AI and automation, digital marketing, and growth strategy.
-
-The vision is to create practical digital experiences that help businesses build, automate, and grow.
-
-### 🏦 Banking Simulation — Full-Stack Systems Project
-
-A planned simulated banking application focused on backend engineering and system design.
-
-Planned areas include ledger-based transactions, concurrency handling, audit logs, an administrative dashboard, and AI-assisted transaction insights. The project will use simulated transactions rather than real banking integrations.
-
----
-
 ## What I'm Exploring
 
 - Backend engineering and API design
