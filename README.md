@@ -91,7 +91,7 @@ The project is being developed incrementally, with additional order-flow and pay
 
 ## Let's Connect
 
-- **Portfolio:** [Explore my work](/)
+- **Portfolio:** [Explore my work](https://aarshi-portfolio-jade.vercel.app/)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aarshi-chanda-8a35b61b7)
 - **GitHub:** [Explore my repositories](https://github.com/aarshichanda)
 
